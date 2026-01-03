@@ -1,8 +1,8 @@
-name        = "Polish Language Pack (Latest)"
+name        = "Polish Language Pack"
 description = "Spolsczenie do Don't Starve, ktore uzywa plikow z gry."
               .."\n\nZresetuj gre kazdorazowo po zmianie konfiguracji!"
 author      = "heapy, marecik16, Lukasz Marecik"
-version     = "1.4.2"
+version     = "1.4.3"
 
 
 dont_starve_compatible     = true
